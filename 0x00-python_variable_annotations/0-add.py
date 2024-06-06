@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-Basic Annotations - add
-This module contains a function t
-perform addition of two floating-point numbers.
+Annotations function - add
+to add two float number by
+using anntations base
 """
+
 
 def add(a: float, b: float) -> float:
     """
-    Adds two float numbers.
+    add two float number
     """
     return a + b
